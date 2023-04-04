@@ -1,5 +1,6 @@
-<iframe src="https://giphy.com/embed/RO8eh6Q0e84gg37adD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-animation-opticalartinc-RO8eh6Q0e84gg37adD">via GIPHY</a></p>
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/RO8eh6Q0e84gg37adD/giphy-downsized-large.gif)" width="100"/>
+</div>
 
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in Philosophy, Behaviorial Psychology, Machine Learning, Bitcoin, Economics, Statistics and Data Modeling
