@@ -1,7 +1,4 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RO8eh6Q0e84gg37adD/giphy-downsized-large.gif" width="500"/>
-</div>
+<img src="https://media.giphy.com/media/loj5BtUrr5vzZmptpZ/giphy-downsized-large.gif" width="200" height="100">
 
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in Philosophy, Behaviorial Psychology, Machine Learning, Bitcoin, Economics, Statistics and Data Modeling
