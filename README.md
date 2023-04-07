@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/loj5BtUrr5vzZmptpZ/giphy-downsized-large.gif" width="200" height="100">
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 - 👋 Hi, I’m Sean
 - 👀 I’m interested in Philosophy, Behaviorial Psychology, Machine Learning, Bitcoin, Economics, Statistics and Data Modeling
